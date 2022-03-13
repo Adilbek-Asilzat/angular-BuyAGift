@@ -1,0 +1,10 @@
+h1 {
+  font-family: impact;
+  font-size: 33px;
+}
+
+.thehead {
+  background-color: darkred;
+  border-radius: 8px;
+  margin: 50px 20% 20px 20%;
+}
